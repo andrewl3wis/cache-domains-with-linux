@@ -6,3 +6,5 @@ packages.linuxmint.com
 apt.pop-os.org
 archive.ubuntu.com
 ppa.launchpad.net
+*.archive.ubuntu.com
+ftp.us.debian.com
