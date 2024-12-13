@@ -9,3 +9,4 @@ ppa.launchpad.net
 *.archive.ubuntu.com
 ftp.us.debian.com
 ports.ubuntu.com
+beta.armbian.com
