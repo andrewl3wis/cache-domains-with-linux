@@ -10,3 +10,9 @@ ppa.launchpad.net
 ftp.us.debian.com
 ports.ubuntu.com
 beta.armbian.com
+armbian.atomonetworks.com
+armbian.nardol.ovh
+armbian.tnahosting.net
+fi.mirror.armbian.de
+k-space.ee.armbian.com
+netcup.armbian.com
